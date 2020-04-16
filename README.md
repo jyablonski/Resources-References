@@ -1,5 +1,5 @@
 # Resources & References
-Below are a list of the books, courses, and resources I've utilized 
+Below are a list of the books, courses, and resources I've utilized.
 
 R for Data Science    | https://r4ds.had.co.nz/
 
