@@ -1,5 +1,5 @@
 # Resources & References
-Below are a list of the books, courses, and resources I've utilized.
+Below are a list of the books, courses, and resources I've utilized in my time after College to continue growing my skill set.
 
 R for Data Science    | https://r4ds.had.co.nz/
 
@@ -8,6 +8,10 @@ Text Mining in R      | https://www.tidytextmining.com/
 Forecasting in R      | https://otexts.com/fpp3/
 
 Machine Learning in R | https://www.manning.com/books/machine-learning-with-r-the-tidyverse-and-mlr
+
+R Shiny               | https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/
+
+Apache Spark in R     | https://therinspark.com/index.html
 
 Big Data SQL Course   | https://www.coursera.org/learn/foundations-big-data-analysis-sql
 
