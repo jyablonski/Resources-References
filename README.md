@@ -19,3 +19,7 @@ Certificate of Completion
 ![Coursera Certificate](https://user-images.githubusercontent.com/16946556/79513066-cc551880-7ff7-11ea-8f5e-db83f6b8ef60.png)
 
 Big Data Analytics Course w/ R & Apache Spark | https://www.edx.org/course/big-data-analytics-2
+
+Certificate of Completion
+![bigdata certificate](https://user-images.githubusercontent.com/16946556/81747372-d7676100-945c-11ea-951e-e1e082a7ec19.png)
+
