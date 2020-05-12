@@ -13,8 +13,9 @@ R Shiny               | https://shiny.rstudio.com/tutorial/written-tutorial/less
 
 Apache Spark in R     | https://therinspark.com/index.html
 
-Big Data SQL Course   | https://www.coursera.org/learn/foundations-big-data-analysis-sql
+Big Data SQL Course w/ Apache Hive   | https://www.coursera.org/learn/foundations-big-data-analysis-sql
 
 Certificate of Completion
 ![Coursera Certificate](https://user-images.githubusercontent.com/16946556/79513066-cc551880-7ff7-11ea-8f5e-db83f6b8ef60.png)
 
+Big Data Analytics Course w/ R & Apache Spark | https://www.edx.org/course/big-data-analytics-2
