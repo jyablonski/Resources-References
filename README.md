@@ -28,4 +28,6 @@ Python Numpy/Pandas/Matplotlib Course | https://www.udemy.com/course/data-analys
 
 Certificate of Completion 
 
+![IQmmkFa](https://user-images.githubusercontent.com/16946556/84100149-20f58e00-a9c0-11ea-8db9-0925df2d2c26.jpg)
+
 [Python Udemy Certificate.pdf](https://github.com/jyablonski/Resources-References/files/4749621/Python.Udemy.Certificate.pdf)
