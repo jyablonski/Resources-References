@@ -10,7 +10,7 @@ Forecasting in R      | https://otexts.com/fpp3/
 Machine Learning in R | https://www.manning.com/books/machine-learning-with-r-the-tidyverse-and-mlr
 
 R Shiny               | https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/
-                      | https://mastering-shiny.org/
+                      |  https://mastering-shiny.org/
 
 Apache Spark in R     | https://therinspark.com/index.html
 
@@ -24,3 +24,6 @@ Big Data Analytics Course w/ R & Apache Spark | https://www.edx.org/course/big-d
 Certificate of Completion
 ![bigdata certificate](https://user-images.githubusercontent.com/16946556/81747372-d7676100-945c-11ea-951e-e1e082a7ec19.png)
 
+Python Numpy/Pandas/Matplotlib Course | https://www.udemy.com/course/data-analysis-with-pandas-python/
+
+Certificate of Completion 
