@@ -11,6 +11,8 @@ Machine Learning in R | https://www.manning.com/books/machine-learning-with-r-th
 
 R Shiny               | https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/
 
+                      | https://mastering-shiny.org/
+
 Apache Spark in R     | https://therinspark.com/index.html
 
 Big Data SQL Course w/ Apache Hive   | https://www.coursera.org/learn/foundations-big-data-analysis-sql
