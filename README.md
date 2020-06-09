@@ -1,5 +1,5 @@
 # Resources & References
-Below are a list of the books, courses, and resources I've utilized in my time after College to continue growing my skill set.
+Below are a list of the books, courses, and resources I've utilized in my time after College to continue growing my skill set, along with any Certificates of Completion I've received.
 
 R for Data Science    | https://r4ds.had.co.nz/
 
