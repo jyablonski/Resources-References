@@ -10,7 +10,6 @@ Forecasting in R      | https://otexts.com/fpp3/
 Machine Learning in R | https://www.manning.com/books/machine-learning-with-r-the-tidyverse-and-mlr
 
 R Shiny               | https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/
-
                       | https://mastering-shiny.org/
 
 Apache Spark in R     | https://therinspark.com/index.html
