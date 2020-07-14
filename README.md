@@ -31,3 +31,9 @@ Certificate of Completion
 ![IQmmkFa](https://user-images.githubusercontent.com/16946556/84100149-20f58e00-a9c0-11ea-8db9-0925df2d2c26.jpg)
 
 [Python Udemy Certificate.pdf](https://github.com/jyablonski/Resources-References/files/4749621/Python.Udemy.Certificate.pdf)
+
+
+Advanced Tableau Training 
+
+![Tableau Course Certificate](https://user-images.githubusercontent.com/16946556/87483492-b223da00-c5e8-11ea-9f72-6bfcd1bcc9a9.png)
+
