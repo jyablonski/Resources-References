@@ -37,3 +37,7 @@ Advanced Tableau Training
 
 ![Tableau Course Certificate](https://user-images.githubusercontent.com/16946556/87483492-b223da00-c5e8-11ea-9f72-6bfcd1bcc9a9.png)
 
+
+PostgresQL Course
+
+![PostgresQL Course Certificate](https://user-images.githubusercontent.com/16946556/89472432-44755480-d735-11ea-863e-c0bccd27e6b7.jpeg)
