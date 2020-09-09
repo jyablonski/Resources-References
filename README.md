@@ -8,6 +8,9 @@ Text Mining in R      | https://www.tidytextmining.com/
 Forecasting in R      | https://otexts.com/fpp3/
 
 Machine Learning in R | https://www.manning.com/books/machine-learning-with-r-the-tidyverse-and-mlr
+                      | https://smltar.com/preface.html
+                      | https://christophm.github.io/interpretable-ml-book/index.html
+                      | http://www.feat.engineering/index.html
 
 R Shiny               | https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/
                       |  https://mastering-shiny.org/
