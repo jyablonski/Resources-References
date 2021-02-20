@@ -47,4 +47,5 @@ PostgresQL Course
 
 Google Analytics Course
 
+[Course_Certificate.pdf](https://github.com/jyablonski/Resources-References/files/6013760/Course_Certificate.pdf)
 
