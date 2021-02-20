@@ -44,3 +44,7 @@ Advanced Tableau Training
 PostgresQL Course
 
 ![PostgresQL Course Certificate](https://user-images.githubusercontent.com/16946556/89472432-44755480-d735-11ea-863e-c0bccd27e6b7.jpeg)
+
+Google Analytics Course
+
+
